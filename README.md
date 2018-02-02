@@ -1,2 +1,6 @@
 # hello-world
-not really my first
+Not really my first time.
+
+Brushing up on some old skills to renew.
+
+
