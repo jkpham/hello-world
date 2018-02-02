@@ -1,2 +1,2 @@
 # hello-world
-not really my first
+Not really my first time.
